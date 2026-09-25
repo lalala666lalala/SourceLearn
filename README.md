@@ -1,7 +1,6 @@
 # From Knowledge Access to Source Learning: Developing Source-Specific Competence
 
-Code for the paper *From Knowledge Access to Source Learning: Developing Source-Specific Competence*
-(under review). **SourceLearn** maintains an explicit, revisable source model M over a persistent
+Code for the paper *From Knowledge Access to Source Learning: Developing Source-Specific Competence*. **SourceLearn** maintains an explicit, revisable source model M over a persistent
 authoritative source D and develops it in three steps, every persistent update being reconstructed from
 the source itself:
 
